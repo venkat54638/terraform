@@ -5,7 +5,7 @@ variable "aws_region" {
 }
 
 variable "project_name" {
-  description = "Name of the project"
+  description = "Understanding the terraform"
   type        = string
   default     = "terraform-alb-ebs"
 }
